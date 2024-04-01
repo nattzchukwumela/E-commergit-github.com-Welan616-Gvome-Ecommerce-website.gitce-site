@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cc618ab1.css",
+    "main.js": "/static/js/main.43fe9159.js",
+    "static/media/banner-3.png": "/static/media/banner-3.f501bb9c0ea3f45071c3.png",
+    "static/media/banner-2.png": "/static/media/banner-2.e59322f3494848302090.png",
+    "static/media/banner-1.jpg": "/static/media/banner-1.888eedd4e6e87695d9e8.jpg",
+    "static/media/LED_TV.jpg": "/static/media/LED_TV.55f9439421f34d97c219.jpg",
+    "static/media/TV-1.jpg": "/static/media/TV-1.8db5ee60f018a152cacd.jpg",
+    "static/media/speakers-1.jpg": "/static/media/speakers-1.db2f97ba2c1ad18d5953.jpg",
+    "static/media/Portable_speaker-1.jpg": "/static/media/Portable_speaker-1.b61a203a7c25bd948c74.jpg",
+    "static/media/Smart_tv-1.jpg": "/static/media/Smart_tv-1.b3b75604b0619d76dffd.jpg",
+    "static/media/star.png": "/static/media/star.01d16416dfeac5c82837.png",
+    "static/media/Soundbar.jpg": "/static/media/Soundbar.93407f4a29f0c1705b38.jpg",
+    "static/media/clearance.jpg": "/static/media/clearance.d8800396b5a6d01e0fa9.jpg",
+    "static/media/Best_deals.png": "/static/media/Best_deals.32a6d54204d624a16000.png",
+    "static/media/car.svg": "/static/media/car.12e389981c37623d85011c14856ac4ee.svg",
+    "index.html": "/index.html",
+    "static/media/food.svg": "/static/media/food.bf1d4c806e59d19d7a8bbdf0f26e2198.svg",
+    "static/media/game.svg": "/static/media/game.2e20f341fce77d0fa4d3c9f2848d72a3.svg",
+    "static/media/account.svg": "/static/media/account.e119b97e85d8b06ca50680ae00120cfd.svg",
+    "static/media/cart-outline.svg": "/static/media/cart-outline.7e9834b6b0503ee3fe59fd78b329a7e7.svg",
+    "static/media/cloth.svg": "/static/media/cloth.d90c7db8e4fa6b72b4fc74016f3c642a.svg",
+    "static/media/home.svg": "/static/media/home.150e166e031acce4a44a77521a00140c.svg",
+    "static/media/phone.svg": "/static/media/phone.e2a77dd49415cc4747f15c759af4f79d.svg",
+    "static/media/health.svg": "/static/media/health.7e368d05c7f0fc866cbc8b8fd7f699f7.svg",
+    "static/media/search.svg": "/static/media/search.c3a9b743b3bfe662b7143a41bc6656cd.svg",
+    "static/media/laptop-outline.svg": "/static/media/laptop-outline.b8df561d96b72b475fd5eee5efd8d2b5.svg",
+    "static/media/menu.svg": "/static/media/menu.f6af176f698670de601686bb500b4b18.svg",
+    "main.cc618ab1.css.map": "/static/css/main.cc618ab1.css.map",
+    "main.43fe9159.js.map": "/static/js/main.43fe9159.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc618ab1.css",
+    "static/js/main.43fe9159.js"
+  ]
+}
